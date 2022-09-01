@@ -4,8 +4,8 @@ Sivickas Benas
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Ich habe ein paar User-Stories erstellt |
-|       | 0.0.2     | Ich habe mit dem Programmieren des Projektes angefangen                                                             |
+| 24.8.22      | 0.0.1   | Ich habe ein paar User-Stories erstellt |
+| 01.9.22      | 0.0.2     | Ich habe mit dem Programmieren des Projektes angefangen                                                             |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
