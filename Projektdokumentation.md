@@ -1,39 +1,42 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Sivickas Benas
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+|       | 0.0.1   | Ich habe ein paar User-Stories erstellt |
+|       | 0.0.2     | Ich habe mit dem Programmieren des Projektes angefangen                                                             |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir programmieren ein Ratespiel
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  Muss           |Funktional| Als ein Spieler möchte ich eine Zahl errate, damit ich gewinne und mich glücklich fühle |
-| 2    |  Muss           |          | Als ein Spieler möchte ich, dass das Programm eine Zahl generiert, damit ich sie erraten kann |
-| 3    |  Kann           |          | Als ein Spieler möchte ich dass das Programm mir sagt, ob es grösser ist, damit ich weiss welche Zahl ich nachher rate |
-| 4    |  Muss           |          | Als ein Spieler möchte ich, dass ich ein Zahl eingeben kann, damit ich ein Feedback bekomme |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| 1    |  Muss           |Funktional| Als ein Spieler möchte ich, dass das Programm eine Geheimzahl einspeichert |
+| 2    |  Muss           |Funktional          | Als ein Spieler möchte ich eine Zahl erraten, damit ich ein Feedback bekomme |
+| 3   |  Muss           |Funktional         | Als ein Spieler möchte ich dass das Programm mir sagt, ob es grösser ist, damit ich weiss welche Zahl ich nachher rate |
+| 4  |  Muss           |Funktional         | Als ein Spieler möchte ich dass das Programm mir sagt, ob es kleiner ist, damit ich weiss welche Zahl ich nachher rate |
+| 5    |  Kann           |Funktional         | Als ein Spieler möchte ich dass das Programm mir sagt, ob es richtig ist, damit ich weiss, ob ich gewonnen habe |
+| 6    |  Kann           |Qualität         | Als ein Spieler möchte ich dass das Programm mir sagt, wie viele Rateversuche ich habe, damit ich weiss wie schlecht ich in diesem spiel bin |
+| 7    |  Muss           |Funktional          | Als ein Spieler möchte ich, dass das Programm mir bescheid gibt, falls ich einen Fehler geraten habe |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Er kann die Zahl nicht raten| Ich starte das Programm neu | Es funktioniert wieder|
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 1.1  | Ich starte das Programm| Ich mach nichts | Das Programm speichert eine Geheimzahl ein|
+| 2.1  | Ich starte das Programm| Ich schreibe eine Zahl | Das Programm sagt mir ein Feedback|
+| 3.1  | Ich schreibe eine Zahl| Es ist falsch | Das Programm sagt, dass es zu gross ist|
+| 4.1  | Ich schreibe eine Zahl| Es ist falsch | Das Programm sagt, dass es zu klein ist|
+| 5.1  | Ich schreibe eine Zahl| Es ist richtig | Das Programm sagt, dass es richtig ist|
+| 6.1  | Ich gewinne| Ich mach nichts | Das Programm sagt, wie viele Versuche ich hatte|
+| 7.1  | Ich schreibe eine Zahl| Es ist nicht zwischen 1 und 100 | Das Programm sagt, dass es invalid ist|
 
 ### 1.4 Diagramme
 
@@ -45,22 +48,19 @@
 | AP-№ | Frist | Zuständig | Beschreibung              | geplante Zeit |
 | ---- | ----- | --------- | --------------------------| ------------- |
 | ---- | ----- | --------- | --------------------------| ----------------- |
-| 1.A  |1.9.22 | Benas     | Programmieren             |    45 Minuten     |
-| 1.B  |1.9.22 | Benas     | N/A                       |    N/A            |
+| 1.A  |1.9.22 | Benas     | Projektdokumentation verbessern             |    45 Minuten     |
+| 1.B  |1.9.22 | Benas     | Programm erstellt geheimzahl                      |    15 Minuten            |
 
 Total: 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |1.9.22 | Benas     | 45 Minuten    |                   |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+| 1.A  |1.9.22 | Benas     | 45 Minuten    |  45 Minuten                 |
+| 1.A  |1.9.22 | Benas     | 15 Minuten    |  10 Minuten                 |
 
 ## 5 Kontrollieren
 
@@ -71,7 +71,6 @@ Total:
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
 
@@ -80,8 +79,6 @@ Total:
 | I    |              |         |                   |                      |
 | ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
