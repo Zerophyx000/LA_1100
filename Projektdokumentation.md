@@ -72,12 +72,12 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |1.9.22 | Benas     | 60 Minuten    |    75 Minuten     |
-| 1.A  |3.9.22 | Benas     | 20 Minuten    |    30 Minuten     |
-| 1.A  |4.9.22 | Benas     | 45 Minuten    |    30 Minuten     |
-| 1.A  |7.9.22 | Benas     | 120 Minuten   |    100 Minuten    |
-| 1.A  |10.9.22| Benas     | 180 Minuten   |    150 Minuten    |
-| 1.A  |12.9.22| Benas     | 60 Minuten    |    60 Minuten     |
-| 1.A  |15.9.22| Benas     | 40 Minuten    |    45 Minuten     |
+| 2.A  |3.9.22 | Benas     | 20 Minuten    |    30 Minuten     |
+| 3.A  |4.9.22 | Benas     | 45 Minuten    |    30 Minuten     |
+| 3.B  |7.9.22 | Benas     | 120 Minuten   |    100 Minuten    |
+| 3.C  |10.9.22| Benas     | 180 Minuten   |    150 Minuten    |
+| 4.A  |12.9.22| Benas     | 60 Minuten    |    60 Minuten     |
+| 5.A  |15.9.22| Benas     | 40 Minuten    |    45 Minuten     |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
