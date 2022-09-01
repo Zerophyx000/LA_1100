@@ -20,10 +20,10 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein Spieler möchte ich eine Zahl errate, damit ich gewinne und mich glücklich fühle |
-| 2    |                 |      | Als ein Spieler möchte ich, dass das Programm eine Zahl generiert, damit ich sie erraten kann |
-| 3    |                 |      | Als ein Spieler möchte ich dass das Programm mir sagt, ob es grösser ist, damit ich weiss welche Zahl ich nachher rate |
-| 4    |                 |      | Als ein Spieler möchte ich, dass ich ein Zahl eingeben kann, damit ich ein Feedback bekomme |
+| 1    |  Muss           |      | Als ein Spieler möchte ich eine Zahl errate, damit ich gewinne und mich glücklich fühle |
+| 2    |  Muss           |      | Als ein Spieler möchte ich, dass das Programm eine Zahl generiert, damit ich sie erraten kann |
+| 3    |  Kann           |      | Als ein Spieler möchte ich dass das Programm mir sagt, ob es grösser ist, damit ich weiss welche Zahl ich nachher rate |
+| 4    |  Muss           |      | Als ein Spieler möchte ich, dass ich ein Zahl eingeben kann, damit ich ein Feedback bekomme |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -46,10 +46,16 @@
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| AP-№ | Frist | Zuständig | Beschreibung              | geplante Zeit |
+| ---- | ----- | --------- | --------------------------| ------------- |
+| ---- | ----- | --------- | --------------------------| ----------------- |
+| 1.A  |1.9.22 | Benas     | Programmieren             |    60 Minuten     |
+| 2.A  |3.9.22 | Benas     | Entscheidungen treffen    |    20 Minuten     |
+| 3.A  |4.9.22 | Benas     | Programmieren             |    45 Minuten     |
+| 3.B  |7.9.22 | Benas     | Programmieren             |    120 Minuten    |
+| 3.C  |10.9.22| Benas     | Programmieren             |    180 Minuten    |
+| 4.A  |12.9.22| Benas     | Verfeinern                |    60 Minuten     |
+| 5.A  |15.9.22| Benas     | Testen                    |    40 Minuten     |
 
 Total: 
 
@@ -65,7 +71,13 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  |1.9.22 | Benas     | 60 Minuten    |    75 Minuten     |
+| 1.A  |3.9.22 | Benas     | 20 Minuten    |    30 Minuten     |
+| 1.A  |4.9.22 | Benas     | 45 Minuten    |    30 Minuten     |
+| 1.A  |7.9.22 | Benas     | 120 Minuten   |    100 Minuten    |
+| 1.A  |10.9.22| Benas     | 180 Minuten   |    150 Minuten    |
+| 1.A  |12.9.22| Benas     | 60 Minuten    |    60 Minuten     |
+| 1.A  |15.9.22| Benas     | 40 Minuten    |    45 Minuten     |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
