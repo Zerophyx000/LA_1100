@@ -50,8 +50,9 @@ Wir programmieren ein Ratespiel
 | ---- | ----- | --------- | --------------------------| ----------------- |
 | 1.A  |1.9.22 | Benas     | Projektdokumentation verbessern             |    45 Minuten     |
 | 1.B  |1.9.22 | Benas     | Programm erstellt geheimzahl                      |    15 Minuten            |
-| 1.B  |1.9.22 | Benas     | Man kann eine Zahl raten                      |    45 Minuten            |
-| 1.B  |1.9.22 | Benas     | Man bekommt Feedback                      |    45 Minuten            |
+| 1.C  |1.9.22 | Benas     | Man kann eine Zahl raten                      |    45 Minuten            |
+| 1.D  |1.9.22 | Benas     | Man bekommt Feedback                      |    45 Minuten            |
+| 1.E  |1.9.22 | Benas     | Man kann gewinnen                      |    30 Minuten            |
 
 Total: 
 
@@ -62,7 +63,12 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |1.9.22 | Benas     | 45 Minuten    |  45 Minuten                 |
-| 1.A  |1.9.22 | Benas     | 15 Minuten    |  10 Minuten                 |
+| 1.B  |1.9.22 | Benas     | 15 Minuten    |  10 Minuten                 |
+| 1.C  |1.9.22 | Benas     | 45 Minuten    |  45 Minuten                 |
+| 1.D  |1.9.22 | Benas     | 45 Minuten    |  30 Minuten                 |
+| 1.E  |1.9.22 | Benas     | 30 Minuten    |  15 Minuten                 |
+
+
 
 ## 5 Kontrollieren
 
