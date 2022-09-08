@@ -59,6 +59,9 @@ Wir programmieren ein Ratespiel
 | 1.E  |1.9.22 | Benas     | Man kann gewinnen                      |    30 Minuten            |
 | 2.A  |8.9.22 | Benas     | Wort eintippen ergibt fehler                |    2x 45 Minuten            |
 | 2.B  |8.9.22 | Benas     | System sagt, wie weit geratene Zahl ist                     |    2x 45 Minuten            |
+| 3.A  |15.9.22 | Benas     | 2.B fertigmachen                   |    60 Minuten            |
+| 3.B  |15.9.22 | Benas     | Sound loslassen, wenn man gewinnt                  |   (2x) 45 Minuten            |
+| 3.C  |15.9.22 | Benas     | Easter Egg, hard mode, usw....                   |    N\A Minuten   (Zusatzarbeit wenn fertig)         |
 
 Total: 
 
