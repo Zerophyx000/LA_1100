@@ -43,7 +43,8 @@ Wir programmieren ein Ratespiel
 ### 1.4 Diagramme
 
 
-[Hier](https://github.com/Zerophyx000/LA_1100/files/9524908/ConsoleApp6.zip) ist der **Link** zum **Rätselspiel**
+[Hier ist der Link zum .cs file](https://github.com/Zerophyx000/LA_1100/files/9525595/Program.zip)
+
 
 
 ## 2 Planen
