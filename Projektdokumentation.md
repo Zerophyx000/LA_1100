@@ -75,7 +75,7 @@ Total:
 | 2.A  |8.9.22 | Benas     | 45 Minuten    |  60 Minuten                 |
 | 2.A  |8.9.22 | Benas     | 45 Minuten    |  60 Minuten                 |
 | 2.B  |8.9.22 | Benas     | 45 Minuten    |  nicht erreicht                 |
-| 2.B  |1.9.22 | Benas     | 45 Minuten    |  nicht erreicht                 |
+| 2.B  |8.9.22 | Benas     | 45 Minuten    |  nicht erreicht                 |  //auf nächstes Mal verschieben
 
 
 
