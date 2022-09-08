@@ -25,6 +25,8 @@ Wir programmieren ein Ratespiel
 | 5    |  Kann           |Funktional         | Als ein Spieler möchte ich dass das Programm mir sagt, ob es richtig ist, damit ich weiss, ob ich gewonnen habe |
 | 6    |  Kann           |Qualität         | Als ein Spieler möchte ich dass das Programm mir sagt, wie viele Rateversuche ich habe, damit ich weiss wie schlecht ich in diesem spiel bin |
 | 7    |  Muss           |Funktional          | Als ein Spieler möchte ich, dass das Programm mir bescheid gibt, falls ich einen Fehler geraten habe |
+| 8    |  Kann           |Qualität         | Als ein Spieler möchte ich, dass das Programm mir bescheid gibt, wie tief oder hoch mein Rateversuch war |
+
 
 ### 1.3 Testfälle
 
@@ -53,6 +55,8 @@ Wir programmieren ein Ratespiel
 | 1.C  |1.9.22 | Benas     | Man kann eine Zahl raten                      |    45 Minuten            |
 | 1.D  |1.9.22 | Benas     | Man bekommt Feedback                      |    45 Minuten            |
 | 1.E  |1.9.22 | Benas     | Man kann gewinnen                      |    30 Minuten            |
+| 2.A  |8.9.22 | Benas     | Wort eintippen ergibt fehler                |    2x 45 Minuten            |
+| 2.B  |8.9.22 | Benas     | System sagt, wie weit geratene Zahl ist                     |    2x 45 Minuten            |
 
 Total: 
 
@@ -67,6 +71,10 @@ Total:
 | 1.C  |1.9.22 | Benas     | 45 Minuten    |  45 Minuten                 |
 | 1.D  |1.9.22 | Benas     | 45 Minuten    |  30 Minuten                 |
 | 1.E  |1.9.22 | Benas     | 30 Minuten    |  15 Minuten                 |
+| 2.A  |8.9.22 | Benas     | 45 Minuten    |  60 Minuten                 |
+| 2.A  |8.9.22 | Benas     | 45 Minuten    |  60 Minuten                 |
+| 2.B  |8.9.22 | Benas     | 45 Minuten    |  nicht erreicht                 |
+| 2.B  |1.9.22 | Benas     | 45 Minuten    |  nicht erreicht                 |
 
 
 
