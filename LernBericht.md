@@ -2,14 +2,14 @@
 Benas Sivickas
 ## Einleitung
 
-**Wir haben im Informatikunterricht in Lernatelier ein Ratespiel programmiert
+Wir haben im Informatikunterricht in Lernatelier ein Ratespiel programmiert
 
 ## Was habe ich gelernt?
 
-*Ich habe gelernt, wie ich farbigen Text in der C# Konsole schreibe
+Ich habe gelernt, wie ich farbigen Text in der C# Konsole schreibe
 
 ## Beschreibung
-*Ich habe in den folgenden Wochen viel gelernt, doch eines konnte ich auf der Konsole noch nicht : farbigen Text schreiben.
+Ich habe in den folgenden Wochen viel gelernt, doch eines konnte ich auf der Konsole noch nicht : farbigen Text schreiben.
 Denn die Konsole sah ohne Farbe ziehmlich... farblos und langweilig aus.
 ![Vergleich von Text ohne Farbe](https://user-images.githubusercontent.com/111045604/191684991-4b889abc-24ac-4136-b0a1-5761ae81a939.png)
 Dann hab ich auf Stackoverflow gesucht, wie man Textfarbe verändert. Ich habe folgenden Code gefunden :
@@ -39,17 +39,17 @@ So sieht dann der neue, bunte und verständliche Text aus:
 
 ## Verifikation
 
-*Der Text beschreibt, was ich gemacht habe und wie ich mich gefühlt habe.
+Der Text beschreibt, was ich gemacht habe und wie ich mich gefühlt habe.
 Die Bilder zeigen, wie viel schöner Text mit Farbe ist als Text ohne.
 Die Code - Snippets zeigen, was für Code ich eingesetzt habe und wie ich programmiert habe.
 
 # Reflektion zum Arbeitsprozess
 
-*Ich war bei meiner Arbeit sehr konzentriert und motiviert, denn jedes Mal wo ich etwas neues konnte,
+Ich war bei meiner Arbeit sehr konzentriert und motiviert, denn jedes Mal wo ich etwas neues konnte,
 wurde ich motivierter und glücklicher. Ich wurde immer mehr aufgeregt, mehr zu programmieren.
 
 Manchmal wenn ich ein Fehler nicht korrigieren konnte, gab ich zu schnell auf. Auch wenn ich meinen eigenen Code nicht mehr
 verstand, fing ich an, aufzugeben.
 
-**VBV**: Ich muss meinen Code besser organisieren, damit er übersichtlicher ist und ich muss versuchen, auch vielleicht einen Kollegen, der
-         schon gut programmieren kann, um Hilfe zu bitten. Auch könnte ich auf Stackoverflow.com eine Frage stellen.
+**VBV**: **Ich muss meinen Code besser organisieren, damit er übersichtlicher ist und ich muss versuchen, auch vielleicht einen Kollegen, der
+         schon gut programmieren kann, um Hilfe zu bitten. Auch könnte ich auf Stackoverflow.com eine Frage stellen. **
