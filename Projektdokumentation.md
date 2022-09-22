@@ -57,10 +57,7 @@ Wir programmieren ein Ratespiel
 
 ### 1.4 Diagramme
 
-
-[Hier ist der Link zum .cs file](https://github.com/Zerophyx000/LA_1100/files/9525595/Program.zip)
-
-
+[Program.zip](https://github.com/Zerophyx000/LA_1100/files/9623154/Program.zip)
 
 ## 2 Planen
 
