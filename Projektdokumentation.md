@@ -133,4 +133,4 @@ Total:
 
 
 ## 6 Auswerten
-
+[Hier](https://github.com/Zerophyx000/LA_1100/blob/main/LernBericht.md) ist der Link zum Lernbericht
