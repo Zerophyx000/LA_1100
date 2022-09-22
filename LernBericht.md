@@ -51,5 +51,5 @@ wurde ich motivierter und glücklicher. Ich wurde immer mehr aufgeregt, mehr zu 
 Manchmal wenn ich ein Fehler nicht korrigieren konnte, gab ich zu schnell auf. Auch wenn ich meinen eigenen Code nicht mehr
 verstand, fing ich an, aufzugeben.
 
-**VBV**: **Ich muss meinen Code besser organisieren, damit er übersichtlicher ist und ich muss versuchen, auch vielleicht einen Kollegen, der
-         schon gut programmieren kann, um Hilfe zu bitten. Auch könnte ich auf Stackoverflow.com eine Frage stellen. **
+**VBV**: Ich muss meinen Code besser organisieren, damit er übersichtlicher ist und ich muss versuchen, auch vielleicht einen Kollegen, der
+         schon gut programmieren kann, um Hilfe zu bitten. Auch könnte ich auf Stackoverflow.com eine Frage stellen.
